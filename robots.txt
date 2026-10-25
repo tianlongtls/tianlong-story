@@ -1,0 +1,9 @@
+# 注意：GitHub Pages 專案網站的 robots.txt 必須放在網域根目錄的網站儲存庫中，
+# 讓它可以透過 https://tianlongtls.github.io/robots.txt 存取。
+User-agent: *
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://tianlongtls.github.io/tianlong-story/sitemap.xml
